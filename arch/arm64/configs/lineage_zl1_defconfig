@@ -344,6 +344,8 @@ CONFIG_PCI_LABEL=y
 #
 # Kernel Features
 #
+CONFIG_LCD_NOTIFIER=y
+CONFIG_ADRENO_IDLER=y
 
 #
 # ARM errata workarounds via the alternatives framework
